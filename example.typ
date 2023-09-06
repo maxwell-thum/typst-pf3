@@ -1,5 +1,5 @@
 #import "template.typ": *
-#import "lamproof.typ": *
+#import "pf3.typ": *
 
 #show: project
 
